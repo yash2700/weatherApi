@@ -14,8 +14,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+h1{
+    font-size: 48px;
+}
 #fetch{
     width: 200px;
+    margin-top: 2rem;
+    padding: 0.6rem;
 }
 
 #data{
